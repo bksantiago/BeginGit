@@ -10,5 +10,6 @@ public class MainProgram {
 	public void helloWorld(){
 		Assert.assertTrue(false);
 		Assert.assertEquals(1, 2);
+		Assert.assertEquals(4, 2);
 	}
 }
