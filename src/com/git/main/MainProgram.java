@@ -11,5 +11,19 @@ public class MainProgram {
 		Assert.assertEquals(1, 2);
 		Assert.assertEquals(4, 2);
 		Assert.assertTrue(false);
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
 	}
 }
