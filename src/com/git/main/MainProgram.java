@@ -16,5 +16,7 @@ public class MainProgram {
 		int b = 6;
 		int sum = b += 1;
 		System.out.println(sum);
+		
+		String second = "Second commit sa branch";
 	}
 }
