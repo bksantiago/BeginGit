@@ -9,5 +9,6 @@ public class MainProgram {
 	@Test
 	public void helloWorld(){
 		Assert.assertTrue(false);
+		Assert.assertEquals(1, 2);
 	}
 }
