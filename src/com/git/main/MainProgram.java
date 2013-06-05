@@ -23,10 +23,6 @@ public class MainProgram {
 		Assert.assertEquals(4, 2);
 		Assert.assertEquals(4, 2);
 		
-		Assert.assertEquals(4, 2);
-		Assert.assertEquals(4, 2);
-		Assert.assertEquals(4, 2);
-		
 		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
 		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
 		Assert.assertEquals(4, 2);
