@@ -18,5 +18,20 @@ public class MainProgram {
 		System.out.println(sum);
 		
 		String second = "Second commit sa branch";
+
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);
+		
+		Assert.assertEquals(4, 2);
+		Assert.assertEquals(4, 2);	Assert.assertEquals(4, 2);
 	}
 }
